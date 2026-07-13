@@ -77,6 +77,8 @@ shards:
   description: Crystal library for Magic The Gathering structs/libs
 - github: mamantoha/nanoid.cr
   description: Secure URL-friendly unique ID generator
+- github: slick-lab/native.cr
+  description: cross-platform framework for building native apps
 - github: isaced/pangu.cr
   description: Paranoid text spacing in Crystal
 - github: maiha/pretty.cr
@@ -114,5 +116,3 @@ shards:
   description: Provides the legacy YAML.mapping macro method
 - github: szTheory/zaru_crystal
   description: Filename sanitization
-- github: slick-lab/native.cr
-  description: cross-platform framework for building native apps
